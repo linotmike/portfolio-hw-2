@@ -1,0 +1,109 @@
+*{
+ 
+  padding: 0%;
+  background-color: aqua;
+}
+.header {
+  height: 50vh;
+ 
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+display: inline-block;
+  flex-direction: row;
+  margin: 0 15px;
+  padding-left: 1200px;
+
+}
+img{
+  width: 110px;
+}
+
+
+
+
+
+
+.contactme{
+  flex-direction: row;
+  color: purple;
+  text-decoration: underline solid black;
+  display: inline-flex;
+  list-style: none;
+  text-indent: 30px;
+}
+h1 {
+  color: black;
+  font-style: italic;
+  font-size: 40px;
+  
+}
+
+main {
+  color: black;
+  
+  font-size: 20px;
+  background: orange;
+}
+
+#work-content {
+  display: grid;
+  font-size: 60px;
+  gap: 80px;
+  color: black;
+  text-align: center;
+  padding: 20px 0;
+  align-content: end;
+  grid-template-columns: auto auto auto;
+  
+  
+  
+}
+
+
+.project {
+  border: 5px solid palegoldenrod;
+  
+  
+  /* look like card */
+}
+
+
+
+
+
+
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-links li {
+  flex-direction: row;
+  
+  text-decoration: underline solid black;
+  display: inline-flex;
+  list-style: none;
+  text-indent: 30px;
+
+}
+.content-heading {
+  margin-right: 40px;
+  padding-right: 15px;
+  border-right: 2px solid black;
+}
+
+#id {
+  
+  width: 100%;
+  font-size: 40px;
+  font-style: italic;
+}
+
+h2 {
+
+flex-direction: row;
+
+}
