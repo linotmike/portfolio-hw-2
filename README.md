@@ -43,8 +43,7 @@ Email : linotmike.mk@gmail.com
 
 ## Links
 
-Github repo:  https://github.com/linotmike/Social-network-api
-
+Github repo:  https://github.com/linotmike/portfolio-hw-2
 
 
 
